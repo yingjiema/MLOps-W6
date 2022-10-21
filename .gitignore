@@ -2,7 +2,6 @@
 mlruns/
 experiment/
 segmentation/
-pet-bokeh/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -108,6 +107,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.aws.env
 .env
 .venv
 env/

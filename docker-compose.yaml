@@ -25,5 +25,5 @@ services:
     command:
       [
         "tritonserver",
-        "--model-repository=s3://triton-repository/models/"
+        "--model-repository=s3://yingjie-week5/models/"
       ]
